@@ -1,0 +1,23 @@
+{
+  "activate driving mode" : "cynic.drivingMode",
+  "can you hear me" : "Why-Yes*-I-Can",
+  "hello" : "Hi*-How-Can-I-Help*-+",
+  "hello my dearest figit spinner" : "hello-my-dearest-meme-lord",
+  "hi" : "Hi*-How-Can-I-Help*-+",
+  "let's play a game" : "cynic.launchGameMenu",
+  "make a phone call" : "cynic.phoneCall",
+  "scan a qr code" : "cynic.qrCode",
+  "start counting my steps" : "cynic.startPedometer",
+  "stop counting my steps" : "cynic.stopPedometer",
+  "take a photo" : "cynic.takePhoto",
+  "tell me a joke" : "cynic.launchJokes",
+  "testing" : "Recieving",
+  "turn off the torch" : "cynic.torchOff",
+  "turn on the torch" : "cynic.torchOn",
+  "what can you do" : "cynic.canDo",
+  "what is life" : "42*-+",
+  "what is your name" : "I-Don't-Have-A-Name-At-The-Moment-+",
+  "what's your name" : "I-Don't-Have-A-Name-At-The-Moment-+",
+  "who is your father" : "Technically*-My-Father-Is-Joseph-Hill*-But-I'd-Rather-Say-Zoto-Inc",
+  "will you marry me" : "Um-That's-A-Bit-Sudden*-Isn't-It"
+}

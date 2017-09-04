@@ -1,0 +1,54 @@
+07-12 21:09:36.530  1078  2244 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=appinventor.ai_yd_yusufdeniz41.sidebar cmp=appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1} from uid 10023 on display 0
+
+07-12 21:09:36.713  1078  2403 I ActivityManager: Start proc 1595:appinventor.ai_yd_yusufdeniz41.sidebar/u0a129 for activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:09:40.694  1595  1595 E AndroidRuntime: Process: appinventor.ai_yd_yusufdeniz41.sidebar, PID: 1595
+
+07-12 21:09:40.715  1078  2235 W ActivityManager:   Force finishing activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:09:41.024  1078  2235 I WindowManager: Screenshot max retries 4 of Token{403a5f5 ActivityRecord{f4d072c u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t181 f}} appWin=Window{936935c u0 Starting appinventor.ai_yd_yusufdeniz41.sidebar} drawState=4
+
+07-12 21:09:41.525  1078  1107 W ActivityManager: Activity pause timeout for ActivityRecord{f4d072c u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t181 f}
+
+07-12 21:09:43.219  1078  1576 I WindowState: WIN DEATH: Window{ab6efbc u0 appinventor.ai_yd_yusufdeniz41.sidebar/appinventor.ai_yd_yusufdeniz41.sidebar.Screen1}
+
+07-12 21:09:43.276  1078  3083 I ActivityManager: Process appinventor.ai_yd_yusufdeniz41.sidebar (pid 1595) has died
+
+07-12 21:11:35.169  1078  2244 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 (has extras)} from uid 10036 on display 0
+
+07-12 21:11:35.216  1078  2222 I ActivityManager: Start proc 3444:appinventor.ai_yd_yusufdeniz41.sidebar/u0a129 for activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:11:37.029  3444  3444 E AndroidRuntime: Process: appinventor.ai_yd_yusufdeniz41.sidebar, PID: 3444
+
+07-12 21:11:37.037  1078  2403 W ActivityManager:   Force finishing activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:11:37.343  1078  2403 I WindowManager: Screenshot max retries 4 of Token{8402594 ActivityRecord{3955e7 u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t184 f}} appWin=Window{6ed86d7 u0 Starting appinventor.ai_yd_yusufdeniz41.sidebar} drawState=4
+
+07-12 21:11:37.844  1078  1107 W ActivityManager: Activity pause timeout for ActivityRecord{3955e7 u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t184 f}
+
+07-12 21:11:39.331  1078  2403 I WindowState: WIN DEATH: Window{d04e106 u0 appinventor.ai_yd_yusufdeniz41.sidebar/appinventor.ai_yd_yusufdeniz41.sidebar.Screen1}
+
+07-12 21:11:39.385  1078  2588 I ActivityManager: Process appinventor.ai_yd_yusufdeniz41.sidebar (pid 3444) has died
+
+07-12 21:23:03.928  1078  2322 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 (has extras)} from uid 10036 on display 0
+
+07-12 21:23:03.969  1078  3083 I ActivityManager: Start proc 4267:appinventor.ai_yd_yusufdeniz41.sidebar/u0a129 for activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:23:04.174  4267  4267 W System  : ClassLoader referenced unknown path: /data/app/appinventor.ai_yd_yusufdeniz41.sidebar-1/lib/arm
+
+07-12 21:23:04.205  8915  8952 I [B+]AppInfoSyncManager: [onAppInfoEvent] app:appinventor.ai_yd_yusufdeniz41.sidebar
+
+07-12 21:23:04.994  4267  4310 E         : appName=appinventor.ai_yd_yusufdeniz41.sidebar, acAppName=/system/bin/surfaceflinger
+
+07-12 21:23:05.671  4267  4267 E AndroidRuntime: Process: appinventor.ai_yd_yusufdeniz41.sidebar, PID: 4267
+
+07-12 21:23:05.676  1078  3082 W ActivityManager:   Force finishing activity appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1
+
+07-12 21:23:05.981  1078  3082 I WindowManager: Screenshot max retries 4 of Token{6e834e3 ActivityRecord{abe512 u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t187 f}} appWin=Window{533b6c2 u0 Starting appinventor.ai_yd_yusufdeniz41.sidebar} drawState=4
+
+07-12 21:23:06.482  1078  1107 W ActivityManager: Activity pause timeout for ActivityRecord{abe512 u0 appinventor.ai_yd_yusufdeniz41.sidebar/.Screen1 t187 f}
+
+07-12 21:23:07.374  1078  2588 I WindowState: WIN DEATH: Window{5369d7d u0 appinventor.ai_yd_yusufdeniz41.sidebar/appinventor.ai_yd_yusufdeniz41.sidebar.Screen1}
+
+07-12 21:23:07.425  1078  2322 I ActivityManager: Process appinventor.ai_yd_yusufdeniz41.sidebar (pid 4267) has died
+
